@@ -1,6 +1,6 @@
 # PDF 图片像素压缩
 
-从 [Releases](https://github.com/heiye07/pdf-image-resizer/releases) 下载 Windows 程序，双击 `PDF图片像素压缩.exe`，添加 PDF，选择缩放方式，点击开始压缩。无需安装 Python。
+从 [Releases](https://github.com/heiye07/pdf-image-resizer/releases) 下载 Windows 程序 `PDF-Image-Resizer.exe`，双击运行，添加 PDF，选择缩放方式，点击开始压缩。无需安装 Python。
 
 - 最长边：默认 2000，6000×9000 会缩到 1333×2000；也可以自行设为 3000，得到 2000×3000。
 - 百分比：宽高分别乘以指定百分比。
